@@ -4,11 +4,11 @@ const Seventh=()=>{
         <>
         <img className="grp5"src="/images/grp5.png"/>
         <img  className='frame2'src='/images/frame2.png'/>
-        <button className='app'>Download App <img className='apple' src="/images/vector2.png"/></button>
+        <button className='app'>Download App <img className='apple' src="/images/Vector2.png"/></button>
         <div className='box12'>
             <div className="helpline">
 
-            <img src="/images/vector.png" className="logo"/>
+            <img src="/images/Vector.png" className="logo"/>
                 <img src="/images/ellipse.png" className="ellipse"/>
             <p className='urify2'>uifry</p>
             <p className='tm2'>TM</p>
@@ -46,8 +46,8 @@ const Seventh=()=>{
         </div>
         < hr className="gradient"></hr>
         <div className='box13'>        < p className='copyright'>Copyright 2022 Uifry.com All Rights Reserved</p></div>
-        <img className="star10"src="/images/star 3.png"/>
-        <img className="star12"src="/images/star 1.png"/>
+        <img className="star10"src="/images/Star 3.png"/>
+        <img className="star12"src="/images/Star 1.png"/>
         </>
     )
 }
