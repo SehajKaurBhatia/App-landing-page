@@ -9,7 +9,7 @@ const Seventh=()=>{
             <div className="helpline">
 
             <img src="/images/Vector.png" className="logo"/>
-                <img src="/images/ellipse.png" className="ellipse"/>
+                <img src="/images/Ellipse.png" className="ellipse"/>
             <p className='urify2'>uifry</p>
             <p className='tm2'>TM</p>
             <p className='email'><img className="icon2"src="/images/frame4.png"/>Help@Frybix.Com</p>
