@@ -1,0 +1,61 @@
+.box5{
+    position: absolute;
+    transform: translateY(-170px);
+    height: 500px;
+    width: 500px;
+    left:240px;
+    
+}
+
+.rings5{
+   position: absolute;
+   left:-180px;
+   top:-55px;
+   z-index: -1;
+}
+.heading3{
+    font-weight:400;
+    font-size: xx-large;
+}
+.txt2{
+    color: gray;
+    font-size: larger;
+   
+    line-height: 1.5;
+}
+.box6{
+    position: absolute;
+    right:150px;
+
+}
+.el7{
+    opacity: 10;
+    width:550px;
+    z-index:-2;
+    position: absolute;
+    top:60px;
+    left:-70px;
+}
+.icon3{
+    position: relative;
+    left:-15px;
+    transform: translateY(10px);
+    z-index:0;
+}
+.icon4{
+    position: relative;
+    top:-2px;
+    transform: translateX(21px);
+   z-index:1;
+   
+}
+.star6{
+    position: absolute;
+    transform: translateY(-170px);
+    left:50%;
+}
+.star7{
+    position: absolute;
+    transform: translateY(370px);
+    right:250px;
+}

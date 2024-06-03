@@ -1,0 +1,54 @@
+.box4{
+    position:absolute;
+    
+    height:400px;
+    width:600px;
+    right:60px;
+}
+.phone5{
+    position: absolute;
+    right:70px;
+    top:-10px;
+    z-index:1;
+}
+.rings3{
+    z-index:0;
+    position: absolute;
+    right:-10px;
+    top:-65px;
+}
+.el5{
+    width:600px;
+    z-index:-1;
+    position: absolute;
+    left:-110px;
+    top:130px;
+}
+.Heading2{
+    font-weight:400;
+    font-size: xx-large;
+}
+.txt{
+    color: gray;
+    font-size: larger;
+   
+    line-height: 1.5;
+}
+.box3{
+    position: absolute;
+    left:200px;
+    transform: translateY(100px);
+}
+.adv{
+    color: rgba(255, 85, 85, 1);
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+h1{
+    font-weight: 100;
+}
+.star5{
+    position: absolute;
+    right:10px;
+    transform: translateY(30px);
+}

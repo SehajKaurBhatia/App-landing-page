@@ -1,0 +1,285 @@
+
+.banner{
+    position:absolute;
+    align-self: center;
+    top:40px;
+    left:0;
+    right:0;
+    margin:0 auto;
+    width:1090px;
+    height:60px;
+    /* background-color: green; */
+    display:flex;
+   align-items: center;
+    justify-content:space-between;
+}
+.ellipse{
+    position:absolute;
+    width:8px;
+    height:8px;
+    left:12px;
+    top:25px;
+}
+.logo{
+    width:26.93px;
+    height:34px;
+    position:absolute;
+    top:10px;
+    left:3.53px;
+}
+.logoName{
+    display:flex;
+    margin-left:40px;
+}
+.urify{
+    /* position:absolute; */
+    font-size: 35px;
+    font-weight:100;
+    width:65.78px;
+height:29.26px;
+margin-top:10.15px;
+margin-left:-5.4px;
+}
+.urify:hover{
+    cursor: pointer;
+}
+.tm{
+    /* position:absolute; */
+    margin-top:20px;
+   margin-left:22px;
+   font-size: xx-small;
+    
+}
+.tm:hover{
+    cursor: pointer;
+}
+.content{
+    /* position: relative; */
+    font-size:larger;
+   
+    margin-left:-352px;
+    display:flex;
+    gap:24px;
+}
+.content:hover{
+    cursor: pointer;
+    
+}
+.home{
+    color: rgba(255, 85, 85, 1);
+    font-size:22px;
+    font-weight:700;
+    /* position: absolute; */
+    margin-top:16px;
+    
+}
+.home:hover{
+background-color:rgba(255, 85, 85, 0.8); 
+color: white;
+text-align: center;
+width:70px;
+border-radius: 5px;
+cursor: pointer;
+}
+.download{
+    background-color: black;
+    color:white;
+    border-radius:4px;
+    width:170px;
+    height:60px;
+    border:2px solid black;
+    font-size:large;
+    letter-spacing:0.5px;
+    line-height:0.5;
+    transition-duration:0.5s ;
+}
+.download:hover{
+    background-color: white;
+    border:2px solid black;
+    color:black;
+    transition-duration:0.5s ;
+    cursor: pointer;
+    font-weight:700;
+}
+.Text{
+    position:absolute;
+    top:115px;
+    left:200px;
+    /* background-color: aqua; */
+    width:610px;
+    height:218px;
+    font-size:64px;
+    font-weight:700;
+    /* line-height:64px; */
+    display:flex;
+    flex-direction: column;
+   gap:25px;
+}
+.BoldText{
+    height:50px;
+    letter-spacing: -1px;
+    width:610px;
+    font-weight: 100;
+}
+.lightText{
+height:28px;
+font-weight: 400;
+font-size: 18px;
+line-height:28px;
+color: gray;
+}
+.buttons{
+    /* position:absolute; */
+    /* top:10px; */
+    display:flex;
+    gap:40px;
+}
+.getStart{
+    background-color: black;
+    color:white;
+    width:170px;
+    height:60px;
+    border:2px solid black;
+    border-radius:4px;
+    font-size:large;
+    transition-duration:0.5s ;
+}
+.watchVid{
+    color:black;
+    background: transparent;
+    border:transparent;
+    padding:2px 30px;
+    font-size:20px;
+}
+.play{
+    width:29px;
+    height:29px;
+   position:absolute;
+   left:200px;
+    
+}
+.getStart:hover{
+    background-color: white;
+    border:2px solid black;
+    color:black;
+    transition-duration:0.5s ;
+    cursor: pointer;
+    font-weight:700;
+}
+.watchVid:hover{
+    cursor: pointer;
+    color:brown;
+}
+.band{
+    height:347px;
+    width:500px;
+    position:absolute;
+    top:350px;
+    left:-20px;
+}
+.iphones{
+    background-color: white;
+    position:absolute;
+    height:500px;
+    width:700px;
+    right:0;
+    top:150px;
+    left:800px;
+    z-index:-4;
+}
+.phone1{
+    position:absolute;
+    height:700px;
+    top:-105px;
+    left:-70px;
+    z-index:2;
+}
+.phone2{
+    position:absolute; 
+    top:-30px;
+    left:40px;
+    height:700px;
+    z-index:1;
+    /* height:300px;
+    width:200px; */
+
+}
+.phone3{
+    position:absolute; 
+    top:30px;
+    left:160px;
+    height:700px;
+    z-index:0;
+    /* height:300px;
+    width:200px; */
+
+}
+.el2 {
+    top: 290px;
+    z-index: -3;
+    position: absolute;
+    width: 300px;
+    height: 300px; /* Ensure height is set */
+    right: 330px;
+    opacity: 1; /* Set to 1 for full visibility */
+   
+}
+.el2::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('/public/images/noise2.png');
+    opacity: 0.5; /* Adjust opacity to blend */
+    pointer-events: none; /* Ensure it doesn't interfere with interactions */
+    z-index: 1; /* Ensure it overlays the element */
+}
+.rings{
+    z-index:-6;
+    position:absolute;
+    top:-115px;
+    left:-50px;
+   
+}
+.el1{
+    
+   left:50px;
+    top:-77px;
+    z-index:-2;
+    position: absolute;
+    opacity: 1; /* Set to 1 for full visibility */
+    mix-blend-mode: multiply;
+}
+.noise{
+    position: absolute;
+    top:-70px;
+    width:1300px;
+    height: 1000px;
+    left:-320px;
+    z-index:-5;
+    opacity:0.07;
+    mix-blend-mode: multiply;
+}
+.star{
+    position: absolute;
+    right:-150px;
+    top:20px;
+}
+.star2{
+    position: absolute;
+    left:-140px;
+    top:80px;
+}
+.star1{
+    position: absolute;
+    top:570px;
+    right:350px;
+    width:50px;
+}
+.star3{
+    position: absolute;
+    top:470px;
+    left:120px;
+}

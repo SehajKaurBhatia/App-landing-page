@@ -1,0 +1,139 @@
+.bound{
+   
+    position: absolute;
+    left:230px;
+    width:1000px;
+    height:583px;
+    z-index: 0;
+    transform: translateY(30px);
+    display: flex;
+        gap:50px;
+}
+.faq{
+    z-index: 1;
+    position: absolute;
+    left:230px;
+    transform: translateY(-120px);
+    color: rgba(255, 85, 85, 1);
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+.faqs{
+    z-index: 1;
+    transform: translateY(-130px);
+    position: absolute;
+    left:230px;
+    font-weight:100;
+    letter-spacing: 0px;
+       
+       
+       line-height: 0.8;
+        font-size: 50px;
+}
+.box10{
+    position: relative;
+    height:583px;
+    width:500px;
+    display: flex;
+    flex-direction: column;
+}
+.box11{
+   position: relative;
+   height:583px;
+    width:500px;
+    display: flex;
+    flex-direction: column;
+}
+.part1{
+   
+    border-radius: 8px;
+    background-color: rgba(255, 85, 85, 1);
+    height: 181px;
+    width:500px;
+}
+.part1:hover{
+    background-color: rgb(255, 178, 85);
+    
+}
+.part2{
+    border-radius: 8px;
+    height: 181px;
+    width:500px;
+}
+.part3{
+    border-radius: 8px;
+    background-color: rgba(255, 85, 85, 1);
+    height: 181px;
+    width:500px;
+   
+}
+.part3:hover{
+    background-color: rgb(255, 178, 85);
+    
+}
+.part4{
+    height: 181px;
+    width:500px;
+}
+.part5{
+    border-radius: 8px;
+    background-color: rgba(255, 85, 85, 1);
+    height: 181px;
+    width:500px;
+}
+.part5:hover{
+    background-color: rgb(255, 178, 85);
+    
+}
+.part6{
+    height: 181px;
+    width:500px;
+}
+.txt4{
+    padding:0px 30px;
+    color: white;
+    font-size:28px;
+    line-height: 28px;
+    font-weight: 600;
+}
+.txt4:hover{
+    color:rgba(255, 85, 85, 1);
+}
+
+.txt5{
+    margin-top:-15px;
+    padding:0px 30px;
+   font-weight: 500;
+    color: white;
+    font-size:18px;
+   
+    line-height:28px;
+    text-align: justify;
+    /* position: relative; */
+}
+.txt5:hover{
+    color:rgba(255, 85, 85, 1);
+}
+.txt6{
+    padding:0px 30px;
+    color: black;
+    font-size:28px;
+    line-height: 28px;
+    font-weight: 600;
+
+}
+.txt7{
+    font-weight: 600;
+    margin-top:-15px;
+    padding:0px 30px;
+    color: black;
+    font-size:18px;
+    line-height:28px;
+    text-align: justify;
+    /* position: relative; */
+}
+.star11{
+    position: absolute;
+    left:57%;
+    transform: translateY(-40px);
+}

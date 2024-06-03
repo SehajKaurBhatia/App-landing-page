@@ -1,0 +1,27 @@
+body{
+    overflow-x: hidden;
+    font-family:'Clash Display', sans-serif;
+}
+@font-face {
+    font-family: 'Clash Display';
+    src: url("/public/images/ClashDisplay-Medium.woff") format('woff');
+        
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Clash Display';
+    src: url("/public/images/ClashDisplay-Light.woff") format('woff');
+        
+    font-weight: 500;
+    font-style: normal;
+  }
+
+ @font-face {
+    font-family: 'Clash Display';
+    src: url("/public/images/ClashDisplay-Bold.woff") format('woff');
+        
+    font-weight:100;
+    font-style: normal;
+  }
+  

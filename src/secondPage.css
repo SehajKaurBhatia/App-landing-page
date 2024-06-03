@@ -1,0 +1,75 @@
+.phone4{
+    position:absolute;
+    transform:translateY(100px);
+    left:250px;
+    z-index:1;
+}
+.rings2{
+    position:absolute;
+    z-index:0;
+    left:65px;
+    transform:translateY(45px);
+}
+.el3{
+    opacity:10;
+    margin-left:50px;
+    margin-top:20px;
+}
+.box2{
+    position: absolute;
+    
+    height: 450px;
+    width:600px;
+    transform:translateY(-330px);
+    right:100px;
+}
+.text{
+    color: gray;
+    font-size: large;
+    line-height: 1.5;
+}
+.heading{
+    font-weight:400;
+    font-size: larger;
+}
+.features{
+    color: rgba(255, 85, 85, 1);
+    letter-spacing: 2px;
+    font-size: 17px;
+   
+}
+h1{
+    margin-top:-20px;
+    font-weight: 800;
+    font-size:50px;
+}
+.el4{
+    position: absolute;
+    right:-100px;
+    top:-60px;
+    width:300px;
+    z-index:-5;
+    opacity: 1;
+    mix-blend-mode: multiply;
+}
+.icon5{
+    position: relative;
+    left:-10px;
+    top:4px;
+}
+.noise1{
+    position: absolute;
+    top:-20px;
+    width:1300px;
+    height: 1000px;
+    left:20px;
+    z-index:-6;
+    opacity:0.03;
+    mix-blend-mode: multiply;
+
+}
+.star4{
+    position: absolute;
+    top:950px;
+    left:100px;
+}
