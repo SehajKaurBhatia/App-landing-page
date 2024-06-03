@@ -2,18 +2,18 @@ import './SeventhPage.css'
 const Seventh=()=>{
     return(
         <>
-        <img className="grp5"src="/public/images/grp5.png"/>
-        <img  className='frame2'src='/public/images/frame2.png'/>
-        <button className='app'>Download App <img className='apple' src="/public/images/vector2.png"/></button>
+        <img className="grp5"src="/images/grp5.png"/>
+        <img  className='frame2'src='/images/frame2.png'/>
+        <button className='app'>Download App <img className='apple' src="/images/vector2.png"/></button>
         <div className='box12'>
             <div className="helpline">
 
-            <img src="/public/images/vector.png" className="logo"/>
-                <img src="/public/images/ellipse.png" className="ellipse"/>
+            <img src="/images/vector.png" className="logo"/>
+                <img src="/images/ellipse.png" className="ellipse"/>
             <p className='urify2'>uifry</p>
             <p className='tm2'>TM</p>
-            <p className='email'><img className="icon2"src="/public/images/frame4.png"/>Help@Frybix.Com</p>
-            <p><img className="icon2"src="/public/images/frame3.png"/>+1234 456 678 89</p>
+            <p className='email'><img className="icon2"src="/images/frame4.png"/>Help@Frybix.Com</p>
+            <p><img className="icon2"src="/images/frame3.png"/>+1234 456 678 89</p>
             </div>
             <div className="link">
                 <p className='col1'>Links</p>
@@ -46,8 +46,8 @@ const Seventh=()=>{
         </div>
         < hr className="gradient"></hr>
         <div className='box13'>        < p className='copyright'>Copyright 2022 Uifry.com All Rights Reserved</p></div>
-        <img className="star10"src="/public/images/star 3.png"/>
-        <img className="star12"src="/public/images/star 1.png"/>
+        <img className="star10"src="/images/star 3.png"/>
+        <img className="star12"src="/images/star 1.png"/>
         </>
     )
 }
