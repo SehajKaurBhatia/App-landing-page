@@ -15,7 +15,7 @@ return(
     <p className='text'>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet<br/> Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.</p>
     <p className='heading'><img className="icon5" src="/images/Icon.png"/>Budgeting Intervals</p>
     <p className='text'>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet<br/> Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.</p>
-    <p className='heading'><img className="icon5" src="/mages/cube.png"/>Budgeting Intervals</p>
+    <p className='heading'><img className="icon5" src="/images/cube.png"/>Budgeting Intervals</p>
     <p className='text'>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet<br/> Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.</p>
     <img className="el4"src="/images/el4.png"/>
     <img className='noise1' src="/images/noise2.png"/>
