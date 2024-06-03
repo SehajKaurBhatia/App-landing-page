@@ -5,15 +5,15 @@ const First=()=>{
         <>
         <div class="banner">
             <div class="logoName">
-                <img src="/images/vector.png" className="logo"/>
+                <img src="/images/Vector.png" className="logo"/>
                 <img src="/images/ellipse.png" className="ellipse"/>
             <p className='urify'>uifry</p>
             <p className='tm'>TM</p>
             </div>
-            <img className="star"src="/images/star 1.png"/>
-            <img className="star1"src="/images/star 1.png"/>
-            <img className="star2"src="/images/star 3.png"/>
-            <img className="star3"src="/images/star 3.png"/>
+            <img className="star"src="/images/Star 1.png"/>
+            <img className="star1"src="/images/Star 1.png"/>
+            <img className="star2"src="/images/Star 3.png"/>
+            <img className="star3"src="/images/Star 3.png"/>
             <div class="content">
             <p className='home'>Home</p>
             <p>About Us</p>
