@@ -2,7 +2,7 @@ import './SixthPage.css'
 const Sixth=()=>{
     return(
         <>
-        <img className="star11"src="/public/images/star 1.png"/>
+        <img className="star11"src="/images/star 1.png"/>
         <p className='faq'>FAQ</p>
         <p className='faqs'>Frequently Asked<br/> Questions</p>
         <div className='bound'>
