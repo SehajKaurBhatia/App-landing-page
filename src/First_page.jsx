@@ -5,15 +5,15 @@ const First=()=>{
         <>
         <div class="banner">
             <div class="logoName">
-                <img src="/public/images/vector.png" className="logo"/>
-                <img src="/public/images/ellipse.png" className="ellipse"/>
+                <img src="/images/vector.png" className="logo"/>
+                <img src="/images/ellipse.png" className="ellipse"/>
             <p className='urify'>uifry</p>
             <p className='tm'>TM</p>
             </div>
-            <img className="star"src="/public/images/star 1.png"/>
-            <img className="star1"src="/public/images/star 1.png"/>
-            <img className="star2"src="/public/images/star 3.png"/>
-            <img className="star3"src="/public/images/star 3.png"/>
+            <img className="star"src="/images/star 1.png"/>
+            <img className="star1"src="/images/star 1.png"/>
+            <img className="star2"src="/images/star 3.png"/>
+            <img className="star3"src="/images/star 3.png"/>
             <div class="content">
             <p className='home'>Home</p>
             <p>About Us</p>
@@ -24,22 +24,22 @@ const First=()=>{
         </div>
         <div class="Text" >
             <p className='BoldText'>Make The Best<br></br>Financial Decisions</p>
-            <img className="el1"src="/public/images/el1.png"/>
-            <img className='noise' src="/public/images/noise2.png"/>
+            <img className="el1"src="/images/el1.png"/>
+            <img className='noise' src="/images/noise2.png"/>
             <p className='lightText'>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet<br/> Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.</p>
        <div className='buttons'>
         <button className='getStart'>Get Started</button>
         
-        <button className='watchVid'> <img class="play" src="/public/images/Group 3.png"/> Watch Video</button>
+        <button className='watchVid'> <img class="play" src="/images/Group 3.png"/> Watch Video</button>
        </div>
-       <img class="band" src="/public/images/Group 35924.png"/>
+       <img class="band" src="/images/Group 35924.png"/>
         </div>
         <div class="iphones">
-        <img className="phone1"src="/public/images/back.png"/>
-        <img className="phone2"src="/public/images/middle.png"/>
-        <img className="phone3"src="/public/images/back.png"/>
-        <img className="el2" src="/public/images/el2.png"/>
-        <img className="rings" src="/public/images/rings.png"/>
+        <img className="phone1"src="/images/back.png"/>
+        <img className="phone2"src="/images/middle.png"/>
+        <img className="phone3"src="/images/back.png"/>
+        <img className="el2" src="/images/el2.png"/>
+        <img className="rings" src="/images/rings.png"/>
        
         </div>
 
