@@ -6,7 +6,7 @@ const First=()=>{
         <div class="banner">
             <div class="logoName">
                 <img src="/images/Vector.png" className="logo"/>
-                <img src="/images/ellipse.png" className="ellipse"/>
+                <img src="/images/Ellipse.png" className="ellipse"/>
             <p className='urify'>uifry</p>
             <p className='tm'>TM</p>
             </div>
