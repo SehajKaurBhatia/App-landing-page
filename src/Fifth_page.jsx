@@ -15,7 +15,7 @@ const Fifth=()=>{
         <img className='icon6' src="/images/Ellipse 2158.png"/>
         <img className='icon7' src="/images/comma.png"/>
         </div>
-        <img className="star8"src="/images/star 3.png"/>
+        <img className="star8"src="/images/Star 3.png"/>
         <div className='box8'>
 
         </div>
